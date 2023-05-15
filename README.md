@@ -6,7 +6,7 @@ ft_bzero.c
 ft_isalnum.c
 ft_isascii.c
 ft_isdigit.c
-ft_isprint.c
+ft_isprint.
 ft_memset.c
 ft_split.c
 ft_strchr.c
